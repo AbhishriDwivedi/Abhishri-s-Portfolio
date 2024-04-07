@@ -409,6 +409,7 @@ a{
 
   .project-skill{
     width:40px;
+    height:40px;
   }
 
   .project-heading{
@@ -551,7 +552,7 @@ a{
   font-size:10em;
   font-style:bold;
   color:rgb(231,231,231);
-  bottom:-37%;
+  bottom:-35%;
   user-select:none;
   overflow-y:hidden;
 }
@@ -644,4 +645,8 @@ footer{
 .icon-wrapper{
   display: flex;
   gap:1rem;
+}
+
+.tilt{
+  transform: rotate(90deg);
 }
