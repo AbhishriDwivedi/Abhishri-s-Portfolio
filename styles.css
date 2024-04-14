@@ -205,7 +205,7 @@ a{
 
 
   .project-section{
-    background-color: rgb(231,231,231);
+    background-color: rgb(231, 231, 231);
     margin-top:4rem;
   }
 
@@ -231,6 +231,7 @@ a{
     background-size: cover;
     position:relative;
     box-shadow:0px 0px 40px #1f1f1f;
+    margin: 0 auto;
   }
 
   .project-card::after{
